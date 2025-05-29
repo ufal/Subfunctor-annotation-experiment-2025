@@ -1,0 +1,19 @@
+Subfunctor annotation experiment 2025 data
+
+There were two tasks, named "s7" and "loc".
+
+There were four annotators, labelled A, B, C, and D.
+
+The interpretation of columns depends on the task:
+
+ | Column | Task "s7"                | Task "loc"                      |
+ |--------+--------------------------+---------------------------------|
+ |      1 | Identifier               | Identifier                      |
+ |      2 | Sentence                 | Sentence                        |
+ |      3 | Functor, choice 1        | Subfunctor, choice 1            |
+ |      4 | Subfunctor for functor 1 | Special lablel for subfunctor 1 |
+ |      5 | Functor, choice 2        | Subfunctor, choice 2            |
+ |      6 | Subfunctor for functor 2 | Special lablel for subfunctor 2 |
+
+
+
