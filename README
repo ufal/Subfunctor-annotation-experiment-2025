@@ -15,5 +15,5 @@ The interpretation of columns depends on the task:
  |      5 | Functor, choice 2        | Subfunctor, choice 2            |
  |      6 | Subfunctor for functor 2 | Special lablel for subfunctor 2 |
 
-
-
+To create the golden data, a fifth annotator was used (G). They only
+annotated the sentences with ties.
